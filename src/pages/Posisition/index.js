@@ -1,6 +1,6 @@
 import { Image, StyleSheet, Text, View } from 'react-native'
 import React from 'react';
-import cart from './cart.jpg';
+import cart from '../../assets/image/cart.jpg';
 
 export default function Posisition() {
   return (
